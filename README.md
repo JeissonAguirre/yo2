@@ -1,7 +1,4 @@
-echo "# yo2" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/JeissonAguirre/yo2.git
-git push -u origin main
+Mi componente metedeologico para mi proyecto indidividual va ser 
+-Investigar los temas requeridos
+-Aprender en las clases y en casa sobre todo le que conllevaria el proyecto
+-realizar el proyecto
